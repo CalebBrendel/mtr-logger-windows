@@ -8,7 +8,7 @@ mkdir C:\Bin\MTR\Application\MTR
 
 timeout /t 5
 
-curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/MTR/mtr.exe > C:\Bin\MTR\Application\MTR1\mtr.exe
+curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/MTR/mtr.exe > C:\Bin\MTR\Application\MTR\mtr.exe
 
-curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Bat_Files/run_mtr_every_hour.bat > C:\Bin\MTR\Application\MTR1\run_mtr_every_hour.bat
+curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Bat_Files/run_mtr_every_hour.bat > C:\Bin\MTR\Application\MTR\run_mtr_every_hour.bat
 
