@@ -27,7 +27,7 @@ Now that we have Chocolatey, we will need to download curl and install it. It's 
 
 choco install curl
 
-Confirmed curl is installed by running the command in [Step 1] (https://github.com/JumperTheHero/mtr-logger-windows?tab=readme-ov-file#step-1-use-curl). If it successfully downloads the staging.bat file, you are all set! The staging.bat file will download all of the neccessary files from this repository and build out the files in the following directory:  **C:\Bin\MTR\**
+Confirmed curl is installed by running the command in [Step 1](https://github.com/JumperTheHero/mtr-logger-windows?tab=readme-ov-file#step-1-use-curl). If it successfully downloads the staging.bat file, you are all set! The staging.bat file will download all of the neccessary files from this repository and build out the files in the following directory:  **C:\Bin\MTR\**
 
 The file structure in the repository mirrors the same way it will be on all client devices! :)
 
