@@ -1,2 +1,2 @@
-# mtr-logger-windows
+# MTR-Logger-Windows
 MTR Logger for Windows
