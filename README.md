@@ -7,7 +7,9 @@ If you'd like to measure it against a different address, feel free to edit the r
 
 # Step 1: Use Curl!
 
-Run this curl command in an elevated cmd prompt: curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Bat_Files/staging.bat
+Run this curl command in an elevated cmd prompt: 
+
+curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Bat_Files/staging.bat
 
 # Step 1a: Don't have curl? Here's how to install:
 
