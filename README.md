@@ -5,3 +5,7 @@ If you'd like to measure it against a different address, feel free to edit the r
 
 # Steps to Install on a Client Device:
 
+# Step 1: Use Curl to download the staging.bat script to do all the work for you!
+
+# Step 1a: Don't have curl? Here's how to install:
+
