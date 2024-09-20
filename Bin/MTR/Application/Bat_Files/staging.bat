@@ -12,6 +12,7 @@ mkdir C:\Bin\MTR\Application
 mkdir C:\Bin\MTR\Logs
 mkdir C:\Bin\MTR\Application\Bat_Files
 mkdir C:\Bin\MTR\Application\MTR
+mkdir C:\Bin\MTR\Application\Task_Scheduler
 
 
 REM The commands below adds an admin MTR local user onto the client device. This user is used to authenticate and properly import all of the .xml tasks!
