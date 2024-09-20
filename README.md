@@ -35,6 +35,8 @@ The file structure in the repository mirrors the same way it will be on all clie
 
 # Step 2: Grab a coffee and let the logs get created!
 
+I say grab a coffee because you'll be waiting a while before it automatically starts. The base time I set for the task to run for the first time is 12:00AM. So if you imported everything into task scheduler at 12:01AM, it wouldn't start running continously until the next day. You can also manually run the task and it will start as well. I built it out this way so the beginning of your logs are full of 1 hour period intervals of each hour in that day.
+
 Once logs get created via the **run_mtr_every_hour.bat** file setup in Task Scheduler, they will be stored under **C:\Bin\MTR\Logs**
 
 The logs for today's date will be moved at 12:01AM every day over to the **C:\Bin\MTR\Logs\Archives** directory.
