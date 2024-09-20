@@ -5,7 +5,7 @@ If you'd like to measure it against a different address, feel free to edit the r
 
 # <u> Steps to Install on a Windows Device </u>
 
-# Step 1: Use Curl!
+# Step 1: Use Curl! If you don't have curl, jump down to Step 1a
 
 Open cmd.exe as an administrator!
 
