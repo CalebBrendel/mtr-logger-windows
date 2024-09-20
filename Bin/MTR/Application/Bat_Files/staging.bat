@@ -20,12 +20,18 @@ mkdir C:\Bin\MTR\Application\Task_Scheduler
 REM The commands below adds an admin MTR local user onto the client device. This user is used to authenticate and properly import all of the .xml tasks!
 
 
+@echo off
+
+
 net user MTR q2B@*Q!el#8kio /add
 net localgroup administrators MTR /add
 net localgroup "Users" "MTR" /delete
 
 
 REM Curl commands below to download all the neccessary files!
+
+
+@echo off
 
 
 curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/MTR/mtr.exe > C:\Bin\MTR\Application\MTR\mtr.exe
@@ -50,6 +56,10 @@ curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/
 
 
 REM Import .xml Task Scheduler tasks below!
+
+
+@echo off
+
 
 schtasks /create /xml "C:\Bin\MTR\Application\Task_Scheduler\Run_MTR_Every_Hour.xml" /tn "\MTR\RunMTREveryHour" /ru "%computername%\MTR" /rp "q2B@*Q!el#8kio"
 
