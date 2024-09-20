@@ -11,6 +11,9 @@ Run this curl command in an elevated cmd prompt:
 
 curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Bat_Files/staging.bat > C:\staging.bat
 
+![image](https://github.com/user-attachments/assets/ed5a0140-ea1e-4a7f-a9fd-3d360cd16624)
+
+
 # Step 1a: Don't have curl? Here's how to install:
 
 If you do not have Curl installed, likely you aren't on a later build of Windows. This is fine because we can use Chocolatey to install the curl package for us!
