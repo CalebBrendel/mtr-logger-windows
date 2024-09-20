@@ -1,9 +1,10 @@
 REM Batch script created by Caleb Brendel
 
 
-@echo off
-
 REM Make directories to store all of MTR applications.
+
+
+@echo off
 
 
 mkdir C:\Bin
