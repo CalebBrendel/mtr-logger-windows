@@ -78,7 +78,7 @@ Confirmed curl is installed by running the command in [Step 1](https://github.co
 
 The file structure in the repository mirrors the same way it will be on all client devices! :)
 
-# Step 2: Grab a coffee and let the logs get created!
+# Step 3: Grab a coffee and let the logs get created!
 
 I say grab a coffee because you'll be waiting a while before it automatically starts. The base time I set for the task to run for the first time is 12:00AM. So if you imported everything into task scheduler at 12:01AM, it wouldn't start running continously until the next day. You can also manually run the task and it will start as well. I built it out this way so the beginning of your logs are full of 1 hour period intervals of each hour in that day.
 
