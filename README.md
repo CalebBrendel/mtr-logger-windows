@@ -5,7 +5,7 @@ If you'd like to measure it against a different address, feel free to edit the r
 
 # <u> Steps to Install on a Windows Device </u>
 
-# Step 1: Use Curl! If you don't have curl, jump down to [Step 2](https://github.com/JumperTheHero/mtr-logger-windows/tree/main?tab=readme-ov-file#step-2-dont-have-curl-heres-how-to-install-curl)
+# Step 1: Use Curl! If you don't have curl, jump down to [Step 2](https://github.com/CalebBrendel/mtr-logger-windows/tree/main?tab=readme-ov-file#step-2-dont-have-curl-heres-how-to-install-curl)
 
 Open cmd.exe as an administrator!
 
@@ -14,7 +14,7 @@ Open cmd.exe as an administrator!
 Paste this command into the command prompt:
 
 
-curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Bat_Files/staging.bat > C:\staging.bat
+curl -L https://raw.githubusercontent.com/CalebBrendel/mtr-logger-windows/main/Bin/MTR/Application/Bat_Files/staging.bat > C:\staging.bat
 
 
 ![image](https://github.com/user-attachments/assets/63cb7987-9ef2-4555-813c-9951a174ed3b)
@@ -74,7 +74,7 @@ Now that we have Chocolatey, we will need to download curl and install it. It's 
 
 choco install curl
 
-Confirmed curl is installed by running the command in [Step 1](https://github.com/JumperTheHero/mtr-logger-windows?tab=readme-ov-file#step-1-use-curl). If it successfully downloads the staging.bat file, you are all set! The staging.bat file will download all of the neccessary files from this repository and build out the files in the following directory:  **C:\Bin\MTR\**
+Confirmed curl is installed by running the command in [Step 1](https://github.com/CalebBrendel/mtr-logger-windows?tab=readme-ov-file#step-1-use-curl). If it successfully downloads the staging.bat file, you are all set! The staging.bat file will download all of the neccessary files from this repository and build out the files in the following directory:  **C:\Bin\MTR\**
 
 The file structure in the repository mirrors the same way it will be on all client devices! :)
 
