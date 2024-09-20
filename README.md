@@ -5,7 +5,7 @@ If you'd like to measure it against a different address, feel free to edit the r
 
 # <u> Steps to Install on a Windows Device </u>
 
-# Step 1: Use Curl! If you don't have curl, jump down to Step 1a
+# Step 1: Use Curl! If you don't have curl, jump down to [Step 2]()
 
 Open cmd.exe as an administrator!
 
@@ -58,7 +58,7 @@ The next thing you will see is the files beginning to download to the system. Se
 
 
 
-# Step 1a: Don't have curl? Here's how to install curl:
+# Step 2: Don't have curl? Here's how to install curl:
 
 If you do not have Curl installed, likely you aren't on a later build of Windows. This is fine because we can use Chocolatey to install the curl package for us!
 
