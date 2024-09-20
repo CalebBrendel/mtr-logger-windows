@@ -9,7 +9,7 @@ If you'd like to measure it against a different address, feel free to edit the r
 
 Run this curl command in an elevated cmd prompt: 
 
-curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Bat_Files/staging.bat > C:\Users\USER\Downloads\curl-8.10.1_1-win64-mingw\curl-8.10.1_1-win64-mingw\bin\staging.bat
+curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Bat_Files/staging.bat > C:\Users\User\Downloads\staging.bat
 
 # Step 1a: Don't have curl? Here's how to install:
 
