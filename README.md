@@ -25,8 +25,36 @@ Press **Enter** to run the command and download the **staging.bat** file!
 
 The download should look like this: 
 
-
 ![image](https://github.com/user-attachments/assets/77dff9ca-68c5-41f1-8747-42c62eab61c5)
+
+
+Next, open up File Explorer.
+
+![image](https://github.com/user-attachments/assets/a0ecd0ef-a841-4f98-8cdb-8cbc5694e810)
+
+
+Click on "This PC" on the left hand side of File Explorer.
+
+![image](https://github.com/user-attachments/assets/f45b5b1f-1aea-4bc2-87ec-6c3949b860d0)
+
+
+Double Click on **"Windows (C:)"** to go into the root directory of the Windows C drive.
+
+![image](https://github.com/user-attachments/assets/a2b2e52f-a768-4253-930e-029edab3e77c)
+
+
+You should see the staging.bat file at the bottom of the list. If you happen to see just "staging" file extentsions aren't on for you.
+
+No, need to correct that right now. Just right click on "staging" or "staging.bat" and run as Administrator.
+
+![image](https://github.com/user-attachments/assets/f0f6bbcc-1e8a-428c-94a9-7bff97a744f8)
+
+
+The next thing you will see is the files beginning to download to the system. See below:
+
+![image](https://github.com/user-attachments/assets/fcbc2074-ba5c-4cdd-a32d-4da60d31b6b9)
+
+
 
 
 
