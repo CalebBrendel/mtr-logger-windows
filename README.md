@@ -68,7 +68,7 @@ Here's the command:
 
 This command will install Chocolatey onto the client device. If for any reason it does not work, ensure you are running it via an admin cmd prompt. I have tested this via remoting agent tools that let you run commands against Windows devices and it successfully worked. So if you want to mass deploy this to a client site, check the manual for the remote software you use and run the command above to install Chocolately.
 
-# Step 1b: Now that we have Chocolatey...
+# Now that we have Chocolatey...
 
 Now that we have Chocolatey, we will need to download curl and install it. It's fairly simple once you have installed Chocolatey. If Chocolatey asked you to reboot after install, please do reboot as you won't be able to install packages after installing Chocolatey. After reboot, run the following command:
 
