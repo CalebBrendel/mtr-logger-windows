@@ -20,7 +20,13 @@ curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/
 ![image](https://github.com/user-attachments/assets/63cb7987-9ef2-4555-813c-9951a174ed3b)
 
 
-Press Enter to run the command and download the **staging.bat** file!
+Press **Enter** to run the command and download the **staging.bat** file!
+
+
+The download should look like this: 
+
+
+![image](https://github.com/user-attachments/assets/77dff9ca-68c5-41f1-8747-42c62eab61c5)
 
 
 
