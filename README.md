@@ -7,10 +7,21 @@ If you'd like to measure it against a different address, feel free to edit the r
 
 # Step 1: Use Curl!
 
-Run this curl command in an elevated cmd prompt: 
+Open cmd.exe as an administrator!
+
+![image](https://github.com/user-attachments/assets/9eabfac4-7ca7-4a81-b56f-f005e23ddbe5)
+
+Paste this command into the command prompt:
 
 
 curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Bat_Files/staging.bat > C:\staging.bat
+
+
+![image](https://github.com/user-attachments/assets/63cb7987-9ef2-4555-813c-9951a174ed3b)
+
+
+Press Enter to run the command and download the **staging.bat** file!
+
 
 
 # Step 1a: Don't have curl? Here's how to install curl:
