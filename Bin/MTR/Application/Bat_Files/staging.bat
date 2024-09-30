@@ -61,10 +61,10 @@ REM Import .xml Task Scheduler tasks below!
 @echo off
 
 
-schtasks /create /xml "C:\Bin\MTR\Application\Task_Scheduler\Run_MTR_Every_Hour.xml" /tn "\MTR\RunMTREveryHour" /ru "%computername%\MTR" /rp "q2B@*Q!el#8kio"
+schtasks /create /xml "C:\Bin\MTR\Application\Task_Scheduler\RunMTREveryHour.xml" /tn "\MTR\MTR Every Hour" /ru "%computername%\MTR" /rp "q2B@*Q!el#8kio"
 
-schtasks /create /xml "C:\Bin\MTR\Application\Task_Scheduler\Run_Archive_Script.xml" /tn "\MTR\RunArchiveScript" /ru "%computername%\MTR" /rp "q2B@*Q!el#8kio"
+schtasks /create /xml "C:\Bin\MTR\Application\Task_Scheduler\RunArchiveScript.xml" /tn "\MTR\Create Daily MTR Archive" /ru "%computername%\MTR" /rp "q2B@*Q!el#8kio"
 
-schtasks /create /xml "C:\Bin\MTR\Application\Task_Scheduler\Run_Archive_Dump_Script.xml" /tn "\MTR\RunArchiveDumpScript" /ru "%computername%\MTR" /rp "q2B@*Q!el#8kio"
+schtasks /create /xml "C:\Bin\MTR\Application\Task_Scheduler\RunArchiveDumpScript.xml" /tn "\MTR\MTR Archive Dump" /ru "%computername%\MTR" /rp "q2B@*Q!el#8kio"
 
-schtasks /create /xml "C:\Bin\MTR\Application\Task_Scheduler\Run_Archive_Dir_Creation.xml" /tn "\MTR\RunArchiveDirCreation" /ru "%computername%\MTR" /rp "q2B@*Q!el#8kio"
+schtasks /create /xml "C:\Bin\MTR\Application\Task_Scheduler\RunArchiveDirCreation.xml" /tn "\MTR\MTR Archive Dir Creation" /ru "%computername%\MTR" /rp "q2B@*Q!el#8kio"
