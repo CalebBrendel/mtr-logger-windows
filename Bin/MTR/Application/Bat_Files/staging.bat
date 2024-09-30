@@ -46,13 +46,13 @@ curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/
 
 curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Bat_Files/staging.bat > C:\Bin\MTR\Application\Bat_Files\staging.bat
 
-curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Task_Scheduler/Run_Archive_Dir_Creation.xml > C:\Bin\MTR\Application\Task_Scheduler\RunArchiveDirCreation.xml
+curl -L https://raw.githubusercontent.com/CalebBrendel/mtr-logger-windows/refs/heads/main/Bin/MTR/Application/Task_Scheduler/RunArchiveDirCreation.xml > C:\Bin\MTR\Application\Task_Scheduler\RunArchiveDirCreation.xml
 
-curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Task_Scheduler/Run_Archive_Dump_Script.xml > C:\Bin\MTR\Application\Task_Scheduler\RunArchiveDumpScript.xml
+curl -L https://raw.githubusercontent.com/CalebBrendel/mtr-logger-windows/refs/heads/main/Bin/MTR/Application/Task_Scheduler/RunArchiveDumpScript.xml > C:\Bin\MTR\Application\Task_Scheduler\RunArchiveDumpScript.xml
 
-curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Task_Scheduler/Run_Archive_Script.xml > C:\Bin\MTR\Application\Task_Scheduler\RunArchiveScript.xml
+curl -L https://raw.githubusercontent.com/CalebBrendel/mtr-logger-windows/refs/heads/main/Bin/MTR/Application/Task_Scheduler/RunArchiveScript.xml > C:\Bin\MTR\Application\Task_Scheduler\RunArchiveScript.xml
 
-curl -L https://raw.githubusercontent.com/JumperTheHero/mtr-logger-windows/main/Bin/MTR/Application/Task_Scheduler/Run_MTR_Every_Hour.xml > C:\Bin\MTR\Application\Task_Scheduler\RunMTREveryHour.xml
+curl -L https://raw.githubusercontent.com/CalebBrendel/mtr-logger-windows/refs/heads/main/Bin/MTR/Application/Task_Scheduler/RunMTREveryHour.xml > C:\Bin\MTR\Application\Task_Scheduler\RunMTREveryHour.xml
 
 
 REM Import .xml Task Scheduler tasks below!
