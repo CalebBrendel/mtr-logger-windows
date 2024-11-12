@@ -26,6 +26,7 @@ REM The commands below adds an admin MTR local user onto the client device. This
 net user MTR q2B@*Q!el#8kio /add
 net localgroup administrators MTR /add
 net localgroup "Users" "MTR" /delete
+WMIC USERACCOUNT WHERE "Name='MTR'" SET PasswordExpires=FALSE
 
 
 REM Curl commands below to download all the neccessary files!
