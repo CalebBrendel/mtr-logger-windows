@@ -1,4 +1,4 @@
-HOST: PULSE                        Loss%  Snt     Avg Best Wrst   Gmean
+HOST: HOSTNAME                     Loss%  Snt     Avg Best Wrst   Gmean
   1.|-- 192.168.100.235            50.1% 3600     0.0    0    1     0.0
   2.|-- 192.168.0.250               0.0% 3600     0.0    0    3     0.0
   3.|-- syn-068-188-020-049.biz.s  49.9% 3600     0.9    0    4     0.0
